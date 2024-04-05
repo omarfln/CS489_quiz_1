@@ -1,0 +1,6 @@
+1- Allow user to search through contacts 
+2- allow user to add contacts
+3- Provide a way for user to update existing contact
+4- Allow user to delete certain contact
+5- Let user be able to merge duplicate contacts
+
